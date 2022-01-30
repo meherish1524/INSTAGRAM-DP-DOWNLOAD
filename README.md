@@ -15,8 +15,7 @@ Step 4: Now, create a loop and download photo.
 ## Built With
 
 * Python 3.6
-* cv2
-* mediapipe
+* instaloader
 
 ## Contributing
 
