@@ -1,7 +1,7 @@
 # INSTAGRAM-DP-DOWNLOAD
 
 
-![Screen_Shot](https://github.com/meherish1524/FACEMESH/blob/main/output.jpeg?raw=true)
+![Screen_Shot](https://github.com/meherish1524/INSTAGRAM-DP-DOWNLOAD/blob/main/output.png?raw=true)
 
 ## Overview
 Instagram is a photo and video-sharing social networking service owned by Facebook, Python provides powerful tools for web scraping of Instagram.
